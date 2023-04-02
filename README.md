@@ -1,6 +1,6 @@
 Food Mania | Food Recipe App
 
-The app is built with interactive user interfaces allowing users to find out million of food recipes in a single search.It includes various sections like category, popular cuisines, more recommendations to futher search more recipes based on that.It provides users the description of ingredients and instructions to cook the recipes in an efficient way.
+The app is built with interactive user interfaces allowing users to find out million of food recipes in a single search. It includes various sections like category, popular cuisines, more recommendations to futher search more recipes based on that. It provides users the description of ingredients and instructions to cook the recipes in an efficient way.
 
 
 ![Screenshot_2023-04-02-16-48-50-60_f9ca468450b43c688366752f49d27149](https://user-images.githubusercontent.com/72508199/229349789-b2aa6109-4e33-42ea-98bf-ec11bad6cbb7.jpg)
